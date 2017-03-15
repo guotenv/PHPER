@@ -36,9 +36,7 @@
 - [虫部落](http://www.chongbuluo.com/) - 整合了常用的搜索, 还有谷歌镜像
 
 ## 工具
-
-   - [在线生成工具]
-
+   ##在线生成工具
 - [在线工具合集](http://tool.lu/) - 集成了很多好用的在线工具
 - [Bejson](http://www.bejson.com/) - 在线 json 格式化工具
 - [草料二维码](http://cli.im/) - 在线生成二维码
