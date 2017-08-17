@@ -143,7 +143,11 @@
 - [Zephir入门](https://segmentfault.com/a/1190000003058736)
 - [关于做PHP扩展开发的一些资源](http://www.laruence.com/2011/09/13/2139.html)
 - [用C/C++扩展你的PHP](http://www.laruence.com/2009/04/28/719.html)
-- [Windows下使用VS2010编译PHP5.4](http://www.tuicool.com/articles/Mr6ra2Q)
+- Windows下使用VS2010编译PHP5.4](http://www.tuicool.com/articles/Mr6ra2Q)
+
+### PHP类库
+
+- [fetch-IMAP类库](https://packagist.org/packages/tedivm/fetch) - Fetch是一个用于阅读电子邮件和附件的库，主要使用POP和IMAP协议。
 
 ### PHP相关文章 
 
